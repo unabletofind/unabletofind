@@ -69,17 +69,6 @@ I write here mostly to share **detection rules, IR playbooks, and lab notes** �
 - **CAP** — Certified AppSec Practitioner (SecOps Group)
 - **Junior Penetration Tester** — TryHackMe
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unabletofind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unabletofind&label=Profile%20Views&color=00ffe5&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/unabletofind?label=Followers&style=flat-square&color=00ffe5" alt="Followers">
-</p>
-> The contribution graph on my profile shows my actual commit activity — detection rules, IR playbooks, and portfolio updates.
-
 ---
 
 <p align="center">
