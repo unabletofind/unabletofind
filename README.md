@@ -1,69 +1,87 @@
-# Hello, I'm Swetha Devi sai Priya Bonu
-<a href="https://www.linkedin.com/in/bonu-swetha-devi-sai-priya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- ============================================================
+  HOW TO USE THIS FILE
+  ============================================================
+  1. On GitHub, create a NEW repository named exactly: unabletofind
+     (must match your username — that's how GitHub recognizes it as your profile README)
+  2. Make it PUBLIC.
+  3. Initialize with a README.
+  4. Replace the README content with what's below this comment block.
+  5. Commit. Done — visit github.com/unabletofind to see it live.
+  ============================================================
+-->
 
-A final-year B.Tech student with a keen interest in Cybersecurity, I am passionate about exploring innovative solutions to safeguard digital systems and networks. I have hands-on experience in developing a DOS DDoS detection and mitigation project. I am focused on advancing my career in cybersecurity and exploring.I am committed to driving impactful projects and contributing to the field of cybersecurity security. 
+<h1 align="center">Hi, I'm Swetha </h1>
 
-## Objective
+<p align="center">
+  <strong>SOC Analyst · Incident Response · Alert Triage</strong><br>
+  <sub>Hyderabad, India 🇮🇳 · Microsoft Security Stack · HTB CDSA</sub>
+</p>
 
-Cybersecurity enthusiast with hands-on expertise in Splunk, Wireshark, Nessus, and Burp Suite. Experienced in red teaming, vulnerability management, and incident response, with knowledge of the MITRE ATT&CK framework and OWASP Top 10. Skilled in automating security workflows using Python to enhance system security. Proven ability to identify vulnerabilities, mitigate risks, and improve security posture. 
+<p align="center">
+  <a href="https://unabletofind.github.io/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/bonu-swetha-devi-sai-priya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@swethadevi1125"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:swethadevi1125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Skills
+---
 
-- **Security Operations & Threat Detection (SIEM - Splunk, Elastic)**
-- **Network Traffic Analysis using Wireshark and Zeek**
-- **Vulnerability Management using Nessus and Burp Suite**
-- **Incident Response and Threat Mitigation**
-- **Python Scripting for Security Automation**
-- **Red Teaming Techniques and Ethical Hacking**
-- **Frameworks: MITRE ATT&CK, OWASP Top 10, Cyber Kill Chain**
+### About
 
-## Tools
+SOC Analyst at **TriArmour AI** with 1.5+ years investigating identity, endpoint, and email incidents across the Microsoft Security stack — Sentinel, MDE, Defender for Office 365, Entra ID, MDCA. I work on the alert triage end of the SOC: separating true positives from noise, scoping endpoint compromise, and running the response chain when phishing or AiTM hits.
 
-### Threat Intelligence
-<div>
-    <img src="https://img.shields.io/badge/-MISP-FF0000?&style=for-the-badge&logo=MISP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenCTI-0078D4?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
-    <img src="https://img.shields.io/badge/-YARA-FF6F00?&style=for-the-badge&logo=YARA&logoColor=white" />
-</div>
+I write here mostly to share **detection rules, IR playbooks, and lab notes** — the stuff I wish I had when I was getting started. Currently learning **malware analysis** with TCM Security.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-8B0000?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Currently Working On
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- **Practical Malware Analysis & Triage** — TCM Security course (~42% done)
+- Building a home lab with **Wazuh + Sysmon + Atomic Red Team** for safe TTP simulation
+- Publishing detection rules (KQL · SPL · Sigma · YARA) and IR playbooks here
+- Targeting **BTL2** for Q3 2026
 
-### Offensive Security Tools
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-8B0000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-00A3E0?&style=for-the-badge&logo=Nmap&logoColor=white" />
-</div>
+###  Tech I Work With
 
-## Certifications
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Sentinel">
+  <img src="https://img.shields.io/badge/MDE-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MDE">
+  <img src="https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Defender XDR">
+  <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/KQL-0066CC?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL">
+  <img src="https://img.shields.io/badge/Sigma-FF6600?style=flat-square" alt="Sigma">
+  <img src="https://img.shields.io/badge/YARA-FFD700?style=flat-square&logoColor=black" alt="YARA">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF3D2C?style=flat-square" alt="MITRE">
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/-Junior_Penetration_Tester_TryHackMe-00A3E0?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF6600?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Penetration_Testing_and_Ethical_Hacking-C70707?&style=for-the-badge&logo=Cybrary&logoColor=white" />
-<img src="https://img.shields.io/badge/-OSINT_Workshop-C00000?&style=for-the-badge&logo=CyberInstitute&logoColor=white" />
-<img src="https://img.shields.io/badge/-Open_source_Intelligence-00D5A1?&style=for-the-badge&logo=BaselInstitute&logoColor=white" />
-<img src="https://img.shields.io/badge/-C_Language-8B0000?&style=for-the-badge&logo=GeeniInstitutions&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+###  What's in this profile
 
-</div>
+| Repo | What it is |
+|------|------------|
+| [`detection-rules`](https://github.com/unabletofind/detection-rules) | KQL, SPL, Sigma, and YARA rules for SOC use |
+| [`incident-response-playbooks`](https://github.com/unabletofind/incident-response-playbooks) | IR runbooks for phishing, AiTM, BEC |
+| [`unabletofind.github.io`](https://github.com/unabletofind/unabletofind.github.io) | Source for my portfolio site |
 
-## Projects
-- <a href="https://github.com/unabletofind/Dos-DDos-detection-and-mitigation"> Dos/DDos Detection and Mitigation </a>
-- Wanna Hack
-- Evil Twin Attack Using NodeMCU
-- Rubber Ducky Using Raspberry Pi Pico
+### Certifications
 
-## Leadership
--  Led project teams and successfully managed team members throughout various phases of projects.
--  Took the lead in an AI workshop, contributing to the development of an AI-based face detection system.
+- **HTB CDSA** — Certified Defensive Security Analyst (Hack The Box, 2026)
+- **CAP** — Certified AppSec Practitioner (SecOps Group)
+- **Junior Penetration Tester** — TryHackMe
+
+### GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=unabletofind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020b16&title_color=00ffe5&icon_color=00ffe5&text_color=cfe0f0" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unabletofind&theme=tokyonight&hide_border=true&background=020b16&stroke=00ffe5&ring=00ffe5&fire=a855f7&currStreakLabel=00ffe5" alt="GitHub Streak" height="160">
+</p>
+
+---
+
+<p align="center">
+  <sub>Hyderabad, IN · Open to SOC Analyst & IR roles · <a href="mailto:swethadevi1125@gmail.com">swethadevi1125@gmail.com</a></sub>
+</p>
+
+<p align="center">
+  <sub><i>"Defenders only have to be wrong once. Attackers only have to be right once. The way you close the gap is curiosity outpacing burnout."</i></sub>
+</p>
