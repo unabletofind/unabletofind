@@ -71,10 +71,14 @@ I write here mostly to share **detection rules, IR playbooks, and lab notes** â€
 
 ### GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=unabletofind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020b16&title_color=00ffe5&icon_color=00ffe5&text_color=cfe0f0" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unabletofind&theme=tokyonight&hide_border=true&background=020b16&stroke=00ffe5&ring=00ffe5&fire=a855f7&currStreakLabel=00ffe5" alt="GitHub Streak" height="160">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=unabletofind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=unabletofind&label=Profile%20Views&color=00ffe5&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/unabletofind?label=Followers&style=flat-square&color=00ffe5" alt="Followers">
+</p>
+> The contribution graph on my profile shows my actual commit activity â€” detection rules, IR playbooks, and portfolio updates.
 
 ---
 
