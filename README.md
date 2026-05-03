@@ -30,14 +30,12 @@
 
 SOC Analyst at **TriArmour AI** with 1.5+ years investigating identity, endpoint, and email incidents across the Microsoft Security stack — Sentinel, MDE, Defender for Office 365, Entra ID, MDCA. I work on the alert triage end of the SOC: separating true positives from noise, scoping endpoint compromise, and running the response chain when phishing or AiTM hits.
 
-I write here mostly to share **detection rules, IR playbooks, and lab notes** — the stuff I wish I had when I was getting started. Currently learning **malware analysis** with TCM Security.
+I write here mostly to share **detection rules, IR playbooks, and lab notes**, the stuff I wish I had when I was getting started. Currently learning **malware analysis** with TCM Security.
 
 ### Currently Working On
 
 - **Practical Malware Analysis & Triage** — TCM Security course (~42% done)
-- Building a home lab with **Wazuh + Sysmon + Atomic Red Team** for safe TTP simulation
 - Publishing detection rules (KQL · SPL · Sigma · YARA) and IR playbooks here
-- Targeting **BTL2** for Q3 2026
 
 ###  Tech I Work With
 
